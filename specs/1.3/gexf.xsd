@@ -158,7 +158,7 @@
       <xs:enumeration value="string"/>
     </xs:restriction>
   </xs:simpleType>
-  <!-- Edge weigth -->
+  <!-- Edge weight -->
   <xs:simpleType name="weight-type">
     <xs:restriction base="xs:double"/>
   </xs:simpleType>
